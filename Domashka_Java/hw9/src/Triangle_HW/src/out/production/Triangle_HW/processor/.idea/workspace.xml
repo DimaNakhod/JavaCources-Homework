@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9877a1eb-80b6-4a37-ad62-edaa9c33e145" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../homework10/src]/src/mypackage/Accessory/Accessory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../homework10/src]/src/mypackage/ArrayUtils/ArrayUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../homework10/src]/src/mypackage/ConsoleWork/ConsoleWork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../homework10/src]/src/mypackage/Dmitry" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../homework10/src]/src/mypackage/Flower/Flower.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../homework10/src]/src/mypackage/Flowershop/FlowerShop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../homework10/src]/src/mypackage/bouquet/Bouquet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../homework10/src]/src/mypackage/chto/Accessory/Accessory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../homework10/src]/src/mypackage/chto/ArrayUtils/ArrayUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../homework10/src]/src/mypackage/chto/ConsoleWork/ConsoleWork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../homework10/src]/src/mypackage/chto/Flower/Flower.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../homework10/src]/src/mypackage/chto/Flowershop/FlowerShop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../homework10/src]/src/mypackage/chto/bouquet/Bouquet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../homework10/src]/src/mypackage/chto/exeption/InvalidStemLengthException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../homework10/src]/src/mypackage/exeption/InvalidStemLengthException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../homework10/src]/src/mypackage/out/production/mypackage/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../homework10/src]/src/mypackage/out/production/mypackage/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../homework10/src]/src/mypackage/out/production/mypackage/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../homework10/src]/src/mypackage/out/production/mypackage/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../homework10/src]/src/mypackage/out/production/mypackage/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../homework10/src]/src/mypackage/out/production/mypackage/mypackage.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../hw5/src/CarProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../hw5/src/CarProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../hw6/src/source/src/src2/src/poh/src/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../hw6/src/source/src/src2/src/poh/src/CarProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../hw6/src/source/src/src2/src/poh/src/Dmitry" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../hw6/src/source/src/src2/src/poh/src/Dmitry" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../hw6/src/source/src/src2/src/poh/src/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../hw6/src/source/src/src2/src/poh/src/recursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../hw7/src/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../hw7/src/src/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../hw7/src/src/src2/src/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../hw7/src/src/src2/src/TaxiStation/TaxiStation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../hw7/src/src/src2/src/TaxiStation/src/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../hw7/src/src/src2/src2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../hw8/src/Dot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../hw8/src/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../hw8/src/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../hw8/src/TriangleProcessor.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="ProjectId" id="1gyFjxHKldsZsNbjVMdyshbj2gR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9877a1eb-80b6-4a37-ad62-edaa9c33e145" name="Default Changelist" comment="" />
+      <created>1599079064200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599079064200</updated>
+    </task>
+    <servers />
+  </component>
+</project>
