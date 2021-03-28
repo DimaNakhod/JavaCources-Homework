@@ -1,0 +1,37 @@
+<%@ page language="java" contentType="text/html; charset=utf-8"
+  pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
+<link href="css/style.css" rel="stylesheet" type="text/css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<fmt:setBundle basename="videolibrary" />
+
+<div class="locale">
+	<form action="/language" method="post">
+		<select name="language">
+			<option value="en_US">English</option>
+			<option value="ru_RU">Русский</option>
+		</select> <input type="submit">
+	</form>
+</div>
+
+<div class="login">
+    <c:if test="${sessionScope.user == NULL}">
+        <a href="login"><fmt:message key="login"/></a>
+    </c:if>
+
+    <c:if test="${sessionScope.user != NULL}">
+            <a href="logout">${sessionScope.user.name} <fmt:message key="logout"/></a>
+    </c:if>
+</div>
+
+<table>
+  <tr>
+    <td><div class="toolbar"><a href="filmsByYears"><fmt:message key="filmsByYears"/></a></div></td>
+    <td><div class="toolbar"><a href="actorsByFilm"><fmt:message key="actorsByFilm"/></a></div></td>
+    <td><div class="toolbar"><a href="actorsByNumberOfFilms"><fmt:message key="actorsByNumberOfFilms"/></a></div></td>
+    <td><div class="toolbar"><a href="actorsAsDirector"><fmt:message key="actorsAsDirector"/></a></div></td>
+    <td><div class="toolbar"><a href="deleteFilms"><fmt:message key="deleteFilms"/></a></div></td>
+  </tr>
+</table>
